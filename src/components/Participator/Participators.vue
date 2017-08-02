@@ -4,6 +4,7 @@
         <v-flex fill-height xs12>
             <div>
                 <h5>Medverkande</h5>
+                
             </div>
         </v-flex>
     </v-layout>
