@@ -8,6 +8,8 @@ import router from './router'
 Vue.use(Vuetify)
 Vue.config.productionTip = false
 
+//TODO import vue-18n
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
